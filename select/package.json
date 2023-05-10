@@ -1,0 +1,16 @@
+{
+  "name": "shuffle",
+  "version": "1.0.0",
+  "description": "A script to choose a show from a list or a piped file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "rmonaghanjr",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
