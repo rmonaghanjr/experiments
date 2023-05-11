@@ -1,0 +1,25 @@
+strsize = 1,0,1,100,1000,1000000
+ryanmonaghan_leftpad,3.0,1.0,1.0,2.0,518.0
+npm_leftpad,1.0,0.0,1.0,3.0,1582.0
+while_leftpad,2.0,1.0,0.0,3.0,1637.0
+for_leftpad,0.0,2.0,1.0,2.0,1490.0
+strsize = 10,0,1,100,1000,1000000
+ryanmonaghan_leftpad,1.0,2.0,1.0,3.0,78.0
+npm_leftpad,0.0,0.0,2.0,4.0,1587.0
+while_leftpad,1.0,0.0,1.0,4.0,1639.0
+for_leftpad,1.0,1.0,1.0,2.0,1469.0
+strsize = 100,0,1,100,1000,1000000
+ryanmonaghan_leftpad,1.0,1.0,7.0,4.0,79.0
+npm_leftpad,1.0,2.0,1.0,2.0,1550.0
+while_leftpad,0.0,0.0,2.0,2.0,1530.0
+for_leftpad,1.0,0.0,0.0,2.0,1328.0
+strsize = 1000,0,1,100,1000,1000000
+ryanmonaghan_leftpad,0.0,0.0,0.0,1.0,67.0
+npm_leftpad,1.0,1.0,1.0,3.0,1387.0
+while_leftpad,1.0,2.0,1.0,2.0,1358.0
+for_leftpad,1.0,0.0,1.0,1.0,1215.0
+strsize = 1000000,0,1,100,1000,1000000
+ryanmonaghan_leftpad,107.0,104.0,109.0,105.0,878.0
+npm_leftpad,85.0,86.0,87.0,87.0,1507.0
+while_leftpad,103.0,105.0,105.0,108.0,1502.0
+for_leftpad,103.0,108.0,105.0,106.0,1766.0
